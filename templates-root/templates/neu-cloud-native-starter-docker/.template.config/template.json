@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Prashanth Nagaraj",
+    "classifications": ["Web", "Docker"],
+    "identity": "neu-cloud-native-starter-docker",
+    "name": "Neudesic templates: Dockerize Web API",
+    "shortName": "neu-docker-api",
+    "tags": {
+      "language": "C#",
+      "type": "item"
+    }
+  }
+  
